@@ -58,3 +58,6 @@ Testing on real quantum harware with noise models.
 ```bash
 pip install -r requirements.txt
 python main.py --mode quantum
+=======
+# womanium-quantum-finance
+Quantum optimization for bond portfolio selection using QUBO, QAOA, and classical solvers.
