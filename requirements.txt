@@ -1,0 +1,6 @@
+txt
+qiskit
+numpy
+matplotlib
+cvxpy
+scipy
