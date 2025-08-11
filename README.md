@@ -50,7 +50,8 @@ Testing QAOA or hybrid quantum-classical approaches.
 Benchmark scaling to higher variable sizes. 
 Testing on real quantum harware with noise models. 
 
-## Link to presentation
+## Link to presentation https://www.canva.com/design/DAGvcNzejoQ/60Zg34Xru9-0-EDixA8MgA/edit?utm_content=DAGvcNzejoQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
 ## References
 Qiskit – Quantum Information Science Kit.
