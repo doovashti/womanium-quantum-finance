@@ -6,8 +6,6 @@ The Entangled Analyst
 ## Team Members
 Vashti Chowla — WISER Enrollment ID: gst-haDItypHlgZFbhy
 
-## Overview of mathematics behind the problem
-
 ## Project Summary
 1. Given Problem statement:
 There are plenty of real world problems that can be framed as binary quadratic optimization problems with constraints - an example of this being portfolio optimization in finance. However, these problems are known to quickly become computationally expensive for classical solvers as the number of input variables we have increases. This is where quantum computing has been a godsend, because if we use it correctly, it has great potential to explore these large variable spaces efficiently. In this project, we are working with binary decision variables, linear inequality constraints and a quadratic objective function. Mathematically, this takes the form:
