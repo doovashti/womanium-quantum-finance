@@ -54,10 +54,26 @@ Testing on real quantum harware with noise models.
 
 ## Link to presentation
 
+## References
+Qiskit – Quantum Information Science Kit.
+IBM Research. Available at: https://qiskit.org/
+
+NumPy – Fundamental package for scientific computing with Python.
+Harris, C.R. et al. (2020). Nature, 585, 357–362.
+
+SciPy – Scientific computing tools for Python.
+Virtanen, P. et al. (2020). Nature Methods, 17, 261–272.
+
+Matplotlib – Python 2D plotting library.
+Hunter, J.D. (2007). Computing in Science & Engineering, 9(3), 90–95.
+
+Variational Quantum Eigensolver (VQE) – Algorithm overview.
+Peruzzo, A. et al. (2014). A variational eigenvalue solver on a quantum processor. Nature Communications, 5, 4213.
+
+QUBO formulation for constrained optimization –
+Glover, F., Kochenberger, G., & Du, Y. (2019). Quantum bridge analytics I: a tutorial on formulating and using QUBO models. 4OR, 17, 335–371.
+
 
 ```bash
 pip install -r requirements.txt
 python main.py --mode quantum
-=======
-# womanium-quantum-finance
-Quantum optimization for bond portfolio selection using QUBO, QAOA, and classical solvers.
